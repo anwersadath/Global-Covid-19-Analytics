@@ -1,6 +1,6 @@
 # Global COVID-19 Analytics
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](covid_dashboard_preview.png)
 
 ## Overview
 
